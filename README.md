@@ -55,7 +55,3 @@ This project uses [TheMealDB API](https://www.themealdb.com/api.php) to fetch re
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
